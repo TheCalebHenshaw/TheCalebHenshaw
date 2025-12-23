@@ -11,11 +11,6 @@ I'm Caleb Henshaw! A Computing Science student @ The University of Glasgow
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
 </div>
 
-### 🔭 I’m working on
-
-- FridgeScanEat, an AI Food Scanning app (coming soon)
-  
-
 ### 🌱 I’m learning
 
 <div display="flex"> 
